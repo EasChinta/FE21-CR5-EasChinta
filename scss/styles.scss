@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background: #f7b58556;
+  color: white;
+  margin-bottom: 3vh;
+}
+
+header img {
+  width: 100px !important;
+  height: 100px !important;
+}
+
+body {
+  font-family: "Zen Loop", cursive;
+  font-size: xx-large;
+  background: linear-gradient(
+    180deg,
+    rgb(23, 192, 235) 0%,
+    rgb(14, 85, 218) 100%
+  );
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+.card {
+  background: #e6f5bd75;
+}
+
+footer {
+  background: #f7b58556;
+  margin-top: 5vh;
+  height: 5vh;
+}
+
+buttons {
+  margin-left: 10vw !important;
+  margin-right: 10vw !important;
+}

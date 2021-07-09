@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background: #f7b58556;
+  color: white;
+  margin-bottom: 3vh;
+}
+
+header img {
+  width: 100px !important;
+  height: 100px !important;
+}
+
+body {
+  font-family: "Zen Loop", cursive;
+  font-size: xx-large;
+  background: -webkit-gradient(linear, left top, left bottom, from(#17c0eb), to(#0e55da));
+  background: linear-gradient(180deg, #17c0eb 0%, #0e55da 100%);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+.card {
+  background: #e6f5bd75;
+}
+
+footer {
+  background: #f7b58556;
+  margin-top: 5vh;
+  height: 5vh;
+}
+
+buttons {
+  margin-left: 10vw !important;
+  margin-right: 10vw !important;
+}
+/*# sourceMappingURL=styles.css.map */
